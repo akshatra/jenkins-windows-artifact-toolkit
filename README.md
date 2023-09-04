@@ -1,6 +1,6 @@
 # jenkins-windows-artifact-toolkit
 
-JenkinsArtifactDownloader is a versatile PowerShell script that simplifies artifact management. It allows users to retrieve & extract specific artifacts from a Jenkins Project, enhancing control and automation in deployment workflows. The script supports both GUI and command-line modes, providing flexibility to users.
+"JenkinsArtifactDownloader" is a versatile PowerShell script that enables you to easily download the 'Last Successful Artifact' from a specified Jenkins project and branch name. This script simplifies artifact management and enhances control and automation in deployment workflows. It supports both GUI and command-line modes, providing users with the flexibility they need.
 
 ## Features
 - **Download Artifact Mode**: Retrieve specific artifacts by selecting the project and job name (artifact version) from Jenkins.
